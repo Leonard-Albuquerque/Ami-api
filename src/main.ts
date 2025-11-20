@@ -13,7 +13,7 @@ async function bootstrap() {
       const allowedOrigins = new Set([
         'http://localhost:8080', // dev
         'http://localhost:5173', // Vite local
-        'https://flow-my-threads.vercel.app/', // domínio principal (exemplo)
+        'https://gymline-style-studio.vercel.app/', // domínio principal (exemplo)
       ]);
 
       try {
